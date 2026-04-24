@@ -26,6 +26,8 @@ ruta = Path(archivo.name)
 print(ruta.stem,"tiene",count,"letras")
 
 
+#probando git
+print("Hola gitHub")
 
 #------------------------------------------------------------------
 
